@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Medha3m
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning cyber security.
+- 🌱 I’m currently learning Artificial intelligence and Machine learning 
 - 💞️ I’m looking to collaborate on anything interesting and that needs me 
 - 📫 How to reach me @20aiml0082@vvce.ac.in 
 
